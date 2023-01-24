@@ -49,7 +49,7 @@
 
 <h4 align="center"> Blog </h4>
 <p align="center">
-  <a href="https://develop-note.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-%23000000?style=flat-square&logo=tistory&logoColor=white&logo=tistory&link=https://naly-the-best-cat.tistory.com/" /></a>&nbsp 
+  <a href="https://naly-the-best-cat.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-%23000000?style=flat-square&logo=tistory&logoColor=white&logo=tistory&link=https://naly-the-best-cat.tistory.com/" /></a>&nbsp 
 </p>
 
 <br/>
