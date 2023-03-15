@@ -9,6 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ... --> 
 
+<h4 align="center">NOTION LINK : https://lacy-farm-978.notion.site/color-pink-huge-Study-Page-f0e745de16864bb5a6fdc8681d859b58</h4>
 <br/>
 
   
