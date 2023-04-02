@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-python-%233776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/-FastApi-%23009688?style=flat-square&logo=fastapi&logoColor=white"/></a>&nbsp;
